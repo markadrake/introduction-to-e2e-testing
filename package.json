@@ -1,0 +1,22 @@
+{
+	"name": "introduction-to-e2e-testing",
+	"version": "0.1.0",
+	"description": "Introduction to End-to-End Testing is meant to provide developers the shortest path for writing e2e tests (with Cypress).",
+	"main": "index.js",
+	"scripts": {
+		"test": "yarn run cypress open"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/markadrake/introduction-to-e2e-testing.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/markadrake/introduction-to-e2e-testing/issues"
+	},
+	"homepage": "https://github.com/markadrake/introduction-to-e2e-testing#readme",
+	"dependencies": {
+		"cypress": "^3.8.2"
+	}
+}
